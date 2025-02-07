@@ -1,5 +1,5 @@
-## Hi there 👋
-
+![photo_6138541592621989960_x](https://github.com/user-attachments/assets/a581d7ca-79d9-46b3-94b3-d8c74d19612a)
+🌱 Still learning new things...
 <!--
 **ChimpsCode/ChimpsCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
