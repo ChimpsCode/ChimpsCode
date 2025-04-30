@@ -1,16 +1,37 @@
-![photo_6138541592621989960_x](https://github.com/user-attachments/assets/a581d7ca-79d9-46b3-94b3-d8c74d19612a)  <br>
-🌱 Still learning new things...
-<!--
-**ChimpsCode/ChimpsCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👾 Cybersecurity Student | Web Learner | Network Explorer</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Learning+Cybersecurity+Fundamentals;Mastering+HTML+CSS+JavaScript;Exploring+Ethical+Hacking+and+Networking" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔐 **About Me**
+
+- 🧑‍🎓 A passionate **Cybersecurity student**
+- 🕸️ Learning: `HTML`, `CSS`, `JavaScript`
+- 🧠 Exploring: `Networking`, `Ethical Hacking`, `Digital Forensics`
+- 📡 Labs: TryHackMe, Hack The Box, Wireshark experiments
+- 📚 Currently studying: Web Exploitation, OSI Model, SQL Injection
+
+---
+
+💻 **Tech Stack**
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+
+---
+
+📫 **Contact Me**
+
+- 🌐 [Your Portfolio or Blog](https://yourwebsite.com)
+- 📧 youremail@example.com
+- 🐦 [Twitter](https://twitter.com/yourhandle)
+
+---
+
+⚔️ "The quieter you become, the more you are able to hear."
