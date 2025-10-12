@@ -12,7 +12,7 @@
 - 🕸️ Learning: `HTML`, `CSS`, `JavaScript`
 - 🧠 Exploring: `Networking`, `Ethical Hacking`, `Digital Forensics`
 - 📡 Labs: TryHackMe, Hack The Box, Wireshark experiments
-- 📚 Currently studying: Web Exploitation, OSI Model, SQL Injection
+- 📚 Currently studying: Web Exploitation, OSI Model, SQL
 
 ---
 
@@ -21,7 +21,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
 
 ---
