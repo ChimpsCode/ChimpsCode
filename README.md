@@ -27,9 +27,8 @@
 
 📫 **Contact Me**
 
-- 🌐 [Your Portfolio or Blog](https://yourwebsite.com)
-- 📧 youremail@example.com
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 🌐 site still on progress
+- 📧 chimp.artfiles@gmail.com
 
 ---
 
