@@ -1,7 +1,7 @@
 <h1 align="center">👾 Cybersecurity Student | Web Learner | Network Explorer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Learning+Cybersecurity+Fundamentals;Mastering+HTML+CSS+JavaScript; Exploring+Ethical+Hacking+Ntwrkng" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAB&center=true&vCenter=true&width=500&lines=Learning+Cybersecurity+Fundamentals;Mastering+HTML+CSS+JavaScript;Exploring+Ethical+Hacking+%26+Networking" alt="Typing SVG" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
 📫 **Contact Me**
 
-- 🌐 site still on progress
+- 🌐 Site currently in progress
 - 📧 chimp.artfiles@gmail.com
 
 ---
